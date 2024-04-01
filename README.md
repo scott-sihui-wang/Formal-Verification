@@ -9,4 +9,5 @@ This is a collection of assignments for the course of CMPT 777: `Introduction to
 - Write `Dafny` programs to verify that certain algorithms can ensure that some conditions are satisfied.
 
 **Topics:** _Formal Verification_
+
 **Skills:** _Java_, _Z3 theorem solver_, _Dafny_
